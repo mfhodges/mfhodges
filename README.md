@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React, Jest, GraphQL
 - 💬 Ask me about A11y, CSS, and UX
 - 📫 How to reach me: [mfhodges95@gmail.com](mailto:mfhodges95@gmail.com)
+- 📝 [My resume](https://docs.google.com/document/d/e/2PACX-1vQMm5Oh09ODdbx-GhV62oZh4SmGNKBUx2HgL8QcuKHKP5ohJEC6iyiJU1zLkrdaCO60NT3Lk-UnkbQY/pub)
 - 🔗 Check out my website: [madeleinehodges.com](madeleinehodges.com)
 - 😄 Pronouns: she/her/hers
 
