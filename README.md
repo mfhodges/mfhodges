@@ -8,7 +8,7 @@
 - 🔗 Check out my website: [madeleinehodges.com](madeleinehodges.com)
 - 😄 Pronouns: she/her/hers
 
-![Madeleine's github stats](https://github-readme-stats.vercel.app/api?username=mfhodges&show_icons=true&theme=dark) 
+![Maddy's github stats](https://github-readme-stats.vercel.app/api?username=mfhodges&show_icons=true&theme=dark) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfhodges&layout=compact&theme=dark)](https://github.com/mfhodges/github-readme-stats)
 
