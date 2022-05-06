@@ -1,12 +1,12 @@
 ### Hi there 🐛
 
 - 🔭 I’m currently working on a [Beanie Babies App](https://github.com/Mfhodges/BeanieBabiesApi) with React and MongoDB
-- 🌱 I’m currently learning Angular, RxJS, NestJS and React
+- 🌱 I’m currently learning Rails and Ember
 - 💬 Ask me about A11y, CSS, and UX
-- 📫 How to reach me: [mfhodges95@gmail.com](mailto:mfhodges95@gmail.com)
-- 📝 [My resume](https://docs.google.com/document/d/1bENTDmWKKxstnqvybTr4LDCb4abnXlqcdnFAHwmv4_I/edit?usp=sharing)
+<!-- - 📫 How to reach me: [mfhodges95@gmail.com](mailto:mfhodges95@gmail.com)
+- 📝 [My resume](https://docs.google.com/document/d/1bENTDmWKKxstnqvybTr4LDCb4abnXlqcdnFAHwmv4_I/edit?usp=sharing) -->
 - 🔗 Check out my website: [madeleinehodges.com](madeleinehodges.com)
-- 😄 Pronouns: she/her/hers
+- 😄 Pronouns: she/they
 
 ![Maddy's github stats](https://github-readme-stats.vercel.app/api?username=mfhodges&show_icons=true&theme=dark) 
 
