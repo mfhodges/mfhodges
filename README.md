@@ -6,7 +6,7 @@
 <!-- - 📫 How to reach me: [mfhodges95@gmail.com](mailto:mfhodges95@gmail.com)
 - 📝 [My resume](https://docs.google.com/document/d/1bENTDmWKKxstnqvybTr4LDCb4abnXlqcdnFAHwmv4_I/edit?usp=sharing) -->
 - 🔗 Check out my website: [madeleinehodges.com](madeleinehodges.com)
-- 😄 Pronouns: she/they
+- 😄 Pronouns: she/her
 
 ![Maddy's github stats](https://github-readme-stats.vercel.app/api?username=mfhodges&show_icons=true&theme=dark) 
 
