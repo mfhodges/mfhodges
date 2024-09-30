@@ -1,11 +1,11 @@
 ### Hi there 🐛
 
-- 🔭 I’m currently working on a [Beanie Babies App](https://github.com/Mfhodges/BeanieBabiesApi) with React and MongoDB
-- 🌱 I’m currently learning Rails and Ember
+- 🔭 I’ve previously worked on a [Beanie Babies App](https://github.com/Mfhodges/BeanieBabiesApi) with React and MongoDB
+- 🌱 I’m currently working at [HashiCorp](https://www.hashicorp.com/)! 
 - 💬 Ask me about A11y, CSS, and UX
 <!-- - 📫 How to reach me: [mfhodges95@gmail.com](mailto:mfhodges95@gmail.com)
 - 📝 [My resume](https://docs.google.com/document/d/1bENTDmWKKxstnqvybTr4LDCb4abnXlqcdnFAHwmv4_I/edit?usp=sharing) -->
-- 🔗 Check out my website: [madeleinehodges.com](madeleinehodges.com)
+- 🔗 Check out my website: [madeleinehodges.com](https://www.madeleinehodges.com/about/)
 - 😄 Pronouns: she/her
 
 ![Maddy's github stats](https://github-readme-stats.vercel.app/api?username=mfhodges&show_icons=true&theme=dark) 
